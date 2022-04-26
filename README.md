@@ -33,4 +33,6 @@ public class Renan {
 <a href="mailto:Renan.olive.nasc@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="50px"/></a>
 </p>
 
+![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
 
