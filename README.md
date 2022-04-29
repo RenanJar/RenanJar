@@ -1,10 +1,6 @@
 
 <h2> Hi, I'm Renan Oliveira! 🦾🤨🤳</h2>
 
-
-![renan](https://user-images.githubusercontent.com/89881203/150587424-1be22947-0d61-4b66-9fe7-db2de30ddecb.gif)
-
-
 ```java
 package brasil.saopaulo.saopaulo.Oliveira;
 
