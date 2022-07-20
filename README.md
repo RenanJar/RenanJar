@@ -11,10 +11,13 @@ public class Renan {
 
     public static void main(String[] args) {
     
-       while (true){
-           searchBugs();
-           complainAboutBugs();
-           drinkCoffee();
+    DairyRoutine dairyRoutine = new DairyRoutine(List);
+       
+    
+        dairyRoutine.stream
+            .filter(routine -> List.contains(newTech))
+            .forEach(newTech -> newTech.study.apply);
+            
            
        }
     }
