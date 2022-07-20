@@ -4,7 +4,6 @@
 ```java
 package brasil.saopaulo.saopaulo.Oliveira;
 
-import coffeeMachine.*;
 import dairyRoutine.*;
 
 public class Renan {
