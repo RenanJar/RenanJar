@@ -20,6 +20,13 @@ public class Renan {
     }
 }
 ```
+# My Projects 
+<p align="center">
+<a href="https://techblogproject.netlify.app/#/entrar"><img src="https://user-images.githubusercontent.com/89881203/180060444-cf4169d2-5df2-4aee-9414-05ae0d51358e.gif" width="auto"/></a>
+</p>
+<p align="center">
+<a href="https://eatitrestaurante.netlify.app/"><img src="https://user-images.githubusercontent.com/89881203/180086458-516415f7-dbcf-4ce4-a139-7bbc5bfad3f8.gif" width="auto"/></a>
+</p>
 
 
 
